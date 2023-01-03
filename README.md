@@ -7,7 +7,7 @@ Techniques         : Deep Convolutional Neural Network, XceptionNet
 Application        : Image Recognition, Image Classification, Medical Imaging
 </pre>
 
-### Project Highlights
+#### Project Highlights
 <pre>
 1. Detected 3 types of skin cancer from Skin Lesion images using Transfer Learning MobileNetV2 architecture with 12,295 Skin Lesion images 
 (Basal Cell Carcinoma : 3273 images, Nevus (Benign) : 4550 images, Melanoma : 4472 images).
